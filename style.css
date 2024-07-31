@@ -394,6 +394,8 @@ img {
   flex-direction: row;
   gap: 2rem;
   justify-content: space-around;
+  height: 400px;
+  width: 400px;
 }
 
 article {
@@ -405,33 +407,6 @@ article {
 
 article .icon {
   cursor: default;
-}
-
-/* PROJECTS SECTION */
-
-#projects {
-  position: relative;
-}
-
-.color-container {
-  border-color: var(--container-border);
-  background: var(--primary-color-2);
-}
-
-.project-img {
-  border-radius: 2rem;
-  width: 90%;
-  height: 90%;
-}
-
-.project-title {
-  margin: 1rem;
-  color: var(--secondary-color);
-}
-
-.project-btn {
-  color: var(--secondary-color);
-  border-color: var(--container-border);
 }
 
 /* CONTACT */
