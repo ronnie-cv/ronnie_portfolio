@@ -392,10 +392,8 @@ img {
   text-align: center;
   flex-wrap: wrap;
   flex-direction: row;
-  gap: 2rem;
+  gap: 5rem;
   justify-content: space-around;
-  height: 400px;
-  width: 400px;
 }
 
 article {
