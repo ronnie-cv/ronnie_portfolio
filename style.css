@@ -378,7 +378,8 @@ img {
   color: var(--secondary-color);
   font-weight: 600;
   font-size: 1.75rem;
-  margin-bottom: 2rem;
+  margin-left: 2rem;
+  margin-bottom: 3rem;
 }
 
 .experience-details-container {
